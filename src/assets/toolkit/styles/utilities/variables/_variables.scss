@@ -2,23 +2,16 @@
 /// Variables
 ////
 
-// Bourbon with custom settings.
-@import 'bourbon/core/bourbon';
-
-// Neat with custom settings.
-@import 'bourbon-neat/core/neat';
-@import 'neat-omega/neat-omega';
+@import 'sf-cornerstone-fabricator/src/assets/toolkit/styles/utilities/variables/variables';
 
 // Base settings.
-@import 'typography';
-@import 'colors';
-@import 'spacing';
+// @import 'typography';
+// @import 'colors';
+// @import 'spacing';
 
-@import 'borders';
-@import 'breakpoints';
-@import 'button';
-@import 'fonts';
-@import 'forms';
-@import 'tables';
-
-
+// @import 'borders';
+// @import 'breakpoints';
+// @import 'button';
+// @import 'fonts';
+// @import 'forms';
+// @import 'tables';

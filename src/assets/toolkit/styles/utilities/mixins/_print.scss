@@ -1,9 +1,0 @@
-////
-/// Print
-////
-
-@mixin print-hidden() {
-  @include grid-media($media-print) {
-    display: none !important;
-  }
-}
